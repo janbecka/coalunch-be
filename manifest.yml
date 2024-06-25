@@ -1,0 +1,5 @@
+---
+applications:
+    - name: coalunch-be
+      random-route: true
+      memory: 128M
